@@ -1,0 +1,18 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '8.0'
+
+
+
+target 'ChatApplication' do
+
+pod 'Parse'
+pod 'SVProgressHUD'
+pod 'ParseUI'
+
+
+end
+
+target 'ChatApplicationTests' do
+
+end
+
